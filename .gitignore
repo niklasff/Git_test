@@ -1,0 +1,9 @@
+# Ignore all files with the following file extensions:
+
+*.png
+*.txt
+*.doc
+*.docx
+*.jpg
+
+# ignoring the whole folder with all its contents /Näyttökuvat
